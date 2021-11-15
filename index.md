@@ -92,7 +92,7 @@ sections:
     enable_cards: true
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: secondary
   - type: features_section
     features:
       - title: Syncronized Calendar
